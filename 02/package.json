@@ -1,0 +1,15 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "skill channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "Error : no text specified"
+  },
+  "keywords": [
+    "ass",
+    "01"
+  ],
+  "author": "Radha",
+  "license": "ISC"
+}
